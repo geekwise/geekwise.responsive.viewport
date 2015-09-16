@@ -10,6 +10,32 @@
 	font-size:100%;
 }
 
+/*Font Sizes Using Relative Keywords*/
+
+#font_size_xx_small{
+        font-size:xx-small;
+    }
+
+#font_size_x_small{
+        font-size:x-small;
+}    
+
+#font_size_small{
+        font-size:small;
+} 
+
 #font_size_medium{
-	font-size:medium%;
+        font-size:medium;
 }
+
+#font_size_large{
+        font-size:large;
+}
+
+#font_size_x_large{
+        font-size:x-large;
+}        
+
+#font_size_xx_large{
+        font-size:xx-large;
+} 
